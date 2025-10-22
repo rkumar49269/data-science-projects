@@ -1,0 +1,3 @@
+The dataset files are too large to be uploaded so follow the link below to get the dataset.
+train.csv --> (https://github.com/Ppius6/Fake-News-Detection-Model/blob/master/train.csv)
+test.csv --> (https://github.com/Ppius6/Fake-News-Detection-Model/blob/master/test.csv)
